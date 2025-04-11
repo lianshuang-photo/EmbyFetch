@@ -1,0 +1,9 @@
+[emby]
+url = http://media.emby.com
+username = your_username
+password = your_password
+api_key = 
+user_id = 
+
+[download]
+download_path = ./media 
